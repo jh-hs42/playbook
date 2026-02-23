@@ -1,10 +1,10 @@
 # Portable Self-Describing File System
 
-**Version:** 1.1
-**Author:** Jakob Huggele
-**Date:** 2026-02-18
-**Status:** Final
-**License:** MIT Liense
+**Version:** 1.1\
+**Author:** Jakob Huggele\
+**Date:** 2026-02-18\
+**Status:** Final\
+**License:** MIT Liense\
 **Contact:** hello@jakobuggele.com
 
 ---
